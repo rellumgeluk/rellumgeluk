@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Nathalia
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlhNTBlOGVjaGpmYWppZGhrdThjazU1YXowM3JlaHdxZHFtZzgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" width="100"/>
+</div>
+
+# 👋 **Hi, I’m Nathalia**
 - 👀 I’m interested in learning data science and cyber security.
 - 🌱 I’m currently learning data analysis.
 - ✉️ You can find me on discord, @miss.understand, for any questions or suggestions.
