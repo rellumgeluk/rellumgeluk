@@ -3,8 +3,7 @@
 </div>
 
 # 👋 **Hi, I’m Nathalia**
-- 👀 I’m interested in learning data science and cyber security.
-- 🌱 I’m currently learning data analysis.
+- 🌱 Doing things out of passion and curiosity.
 - ✉️ You can find me on discord, @miss.understand, for any questions or suggestions.
 
 <!---
