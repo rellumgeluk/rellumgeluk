@@ -3,7 +3,7 @@
 </div>
 
 # 👋 **Hi, I’m Nathalia**
-- 🌱 Doing things out of passion and curiosity.
+- 🌱 Currently learning web dev and database administration.
 - ✉️ You can find me on discord, @miss.understand, for any questions or suggestions.
 
 <!---
