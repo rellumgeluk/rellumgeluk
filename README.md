@@ -3,7 +3,7 @@
 </div>
 
 # 👋 **Hi, I’m Nathalia**
-- 🌱 Currently learning web dev and database administration.
+- 🌱 Currently learning cybersecurity fundamentals & computer hardware.
 - ✉️ You can find me on discord, @miss.understand, for any questions or suggestions.
 
 <!---
